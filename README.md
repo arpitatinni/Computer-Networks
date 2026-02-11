@@ -684,11 +684,10 @@ traceroute <ip-address>          ! Trace packet path
 - [x] No default routes configured
 - [x] All areas can ping each other
 
+
+
 ---
 
-## Author
+## Contribution Note
 
-**Md. Faisal Iftekhar**
-**Institution:** Brac University
-**Course:** Computer Networks  
-**Date:** December 2025
+This repository is a fork of the original group project completed as part of our undergraduate coursework.
